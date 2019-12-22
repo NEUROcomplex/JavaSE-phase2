@@ -20,7 +20,7 @@ public class PublishProvider {
     protected static final String QUEUE_NAME = "publishQueue#01";
     protected static final String QUEUE_NAME_02 = "publishQueue#02";
     //用于主题模式
-    protected static final String QUEUE_NAME_TOPIC = "topic";
+    protected static final String QUEUE_NAME_TOPIC = "topic_exchange";
 
     protected static final String EXCHANGE_NAME = "exchange";
 
